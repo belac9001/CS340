@@ -50,6 +50,17 @@ Filtering the data will also display the breed breakdown in the pie chart.
 
 ![image](https://user-images.githubusercontent.com/53846457/102739105-fedeb000-4300-11eb-934d-83c0eebd7eb6.png)
 
-## Contact
+## Final Submission Prompts
+
+**Readable Code**
+For writing readable code, I try to keep naming conventions and indentation consistent. Commenting on functions or methods explaining the purpose, parameters, and return values can be helpful, however comments should only be added if necessary (a function named getAddress doesn't need a comment explaining functionality). Another thing that I try to do that really helps code be readable is avoiding deep nesting. 
+
+**Problem Solving**
+For moments when I'm stuck, I like to break every aspect of the problem down and try to work it out. An example with the dashboard, I was having trouble getting a pie chart to display properly. I created a temporary div to display data returned from the pie chart function. In the pie chart function, I returned several types of data just to see how it could be manipulated, what the type of each object was, and what each object contained. Doing this allowed me to pinpoint exactly what I needed to do to get the pie chart working properly.
+
+**What do computer scientists do**
+Computer scientists, in my opinion, essentially create solutions to problems. For the Grazioso Salvare company, they needed a better way to work with and visualize their data. The solution to this problem was to create an interactive dashboard that allows filtering, viewing, and geolocation of the data types. I feel like problem solving is essentially what computer science boils down to (albeit in different scopes depending on the project). 
+
+## Contact 
 
 Your name: Caleb Dederick, [caleb.dederick@snhu.edu](mailto:caleb.dederick@snhu.edu)
